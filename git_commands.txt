@@ -4,6 +4,7 @@
 # git status
 # git log (hit 'q' to exit)
 # git checkout (unique commit id)
+# git merge
 
 Git Remote Commands...
 

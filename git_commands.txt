@@ -4,3 +4,10 @@
 # git status
 # git log (hit 'q' to exit)
 # git checkout (unique commit id)
+
+Git Remote Commands...
+
+# git remote add origin (ulr)
+# git remote -v
+# git push origin master
+# git pull origin master
